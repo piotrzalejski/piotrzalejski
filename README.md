@@ -22,13 +22,14 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,git" />
+  <br />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs,mysql,postgres" /><br>
 </div>
 
 <br/>
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=piotrzalejski&theme=transparent&show_icons=true&title_color=36BCF7FF" />
+<img src="https://github-readme-stats.vercel.app/api?username=piotrzalejski&theme=transparent&show_icons=true&title_color=36BCF7FF&icon_color=36BCF7FF&rank_icon=github&hide_border=true&text_color=f9731685&hide=stars,contribs" />
 </div>
 <!---
 piotrzalejski/piotrzalejski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
