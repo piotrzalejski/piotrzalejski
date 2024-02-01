@@ -31,7 +31,8 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=piotrzalejski&theme=transparent&show_icons=true&title_color=36BCF7FF&icon_color=36BCF7FF&rank_icon=github&hide_border=true&text_color=f9731685&hide=stars,contribs" />
 </div>
-<!---
-piotrzalejski/piotrzalejski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align="center">
+<h2>Contributions</h2>
+  <img alt="snake eating my contributions" src="https://github.com/piotrzalejski/piotrzalejski/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
