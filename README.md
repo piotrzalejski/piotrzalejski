@@ -34,5 +34,5 @@
 
 <div align="center">
 <h2>Contributions</h2>
-  <img alt="snake eating my contributions" src="https://github.com/piotrzalejski/piotrzalejski/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/piotrzalejski/piotrzalejski/output/github-contribution-grid-snake-dark.svg" />
 </div>
